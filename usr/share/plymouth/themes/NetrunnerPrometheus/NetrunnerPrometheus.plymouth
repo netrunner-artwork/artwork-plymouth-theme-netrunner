@@ -3,5 +3,5 @@ Name=NetrunnerPrometheus
 Description=NetrunnerPrometheus
 ModuleName=script
 [script]
-ImageDir=/lib/plymouth/themes/NetrunnerPrometheus
-ScriptFile=/lib/plymouth/themes/NetrunnerPrometheus/mdv.script
+ImageDir=/usr/share/plymouth/themes/NetrunnerPrometheus
+ScriptFile=/usr/share/plymouth/themes/NetrunnerPrometheus/mdv.script
