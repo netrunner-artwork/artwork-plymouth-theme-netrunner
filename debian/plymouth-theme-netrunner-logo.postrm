@@ -41,6 +41,7 @@ case "$1" in
 	then
 	    update-grub2
 	fi
+	plymouth-set-default-theme -R text
 	;;
 
     purge)
