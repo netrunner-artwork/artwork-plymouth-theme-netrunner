@@ -20,9 +20,7 @@ case "$1" in
     configure)
 	update-alternatives \
 		--install /usr/share/plymouth/themes/default.plymouth default.plymouth \
-		/usr/share/plymouth/themes/NetrunnerPrometheus/NetrunnerPrometheus.plymouth 150 \
-		--slave /usr/share/plymouth/themes/default.grub default.plymouth.grub \
-		/usr/share/plymouth/themes/NetrunnerPrometheus/netrunner-logo.grub
+		/usr/share/plymouth/themes/netrunner-deb-plymouth/netrunner-deb.plymouth 150
 
 	if which update-initramfs >/dev/null 2>&1
 	then

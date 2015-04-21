@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=netrunner-deb theme
+Description=Netrunner Plymounth Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/netrunner-deb-plymouth 
+ScriptFile=/usr/share/plymouth/themes/netrunner-deb-plymouth/mdv.script
