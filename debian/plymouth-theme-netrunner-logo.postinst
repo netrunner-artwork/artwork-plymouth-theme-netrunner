@@ -31,7 +31,7 @@ case "$1" in
 	then
 	    update-grub2
 	fi
-	plymouth-set-default-theme -R NetrunnerPrometheus
+	plymouth-set-default-theme -R netrunner-deb-plymouth
 	;;
 
     abort-upgrade|abort-deconfigure|abort-remove)
