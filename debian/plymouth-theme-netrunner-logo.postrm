@@ -30,7 +30,7 @@
 case "$1" in
     remove)
 	update-alternatives \
-		--remove default.plymouth /usr/share/plymouth/themes/netrunner-deb/netrunner-deb.plymouth
+		--remove default.plymouth /usr/share/plymouth/themes/complete/complete.plymouth
 
 	if which update-initramfs >/dev/null 2>&1
 	then

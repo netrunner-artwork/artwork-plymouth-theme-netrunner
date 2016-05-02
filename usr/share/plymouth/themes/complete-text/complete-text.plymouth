@@ -1,0 +1,7 @@
+[Plymouth Theme]
+Name=Complete (Text Mode)
+Description=A Netrunner Complete splash for text mode
+ModuleName=complete-text
+
+[complete-text]
+title=Netrunner Complete
