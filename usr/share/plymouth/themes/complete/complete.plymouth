@@ -1,9 +1,0 @@
-[Plymouth Theme]
-Name=Complete
-Description=A Netrunner Complete Splash
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/complete
-ScriptFile=/usr/share/plymouth/themes/complete/complete.script
-

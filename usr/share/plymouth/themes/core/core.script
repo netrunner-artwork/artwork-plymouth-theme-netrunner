@@ -32,7 +32,7 @@
 
 // -------------------------------- Assets ---------------------------------- //
 
-global.title.text = "Netrunner Debian";
+global.title.text = "Netrunner Core";
 global.defaults.font.default = "Noto Sans 12";
 global.defaults.font.title = "Noto Sans 14";
 

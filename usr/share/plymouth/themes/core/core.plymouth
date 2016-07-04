@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=core
+Description=A Netrunner Core Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/core
+ScriptFile=/usr/share/plymouth/themes/core/core.script
+
