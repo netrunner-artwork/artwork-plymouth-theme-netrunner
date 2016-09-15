@@ -4,5 +4,5 @@ Description=A Core Splash.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/core
-ScriptFile=/usr/share/plymouth/themes/core/core.script
+ImageDir=/usr/share/plymouth/themes/netrunner-black
+ScriptFile=/usr/share/plymouth/themes/netrunner-black/core.script
