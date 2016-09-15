@@ -1,7 +1,7 @@
 [Plymouth Theme]
-Name=core (Text Mode)
+Name=netrunner-black (Text Mode)
 Description=A Netrunner Core splash for text mode
-ModuleName=core-text
+ModuleName=netrunner-black-text
 
-[core-text]
+[netrunner-black-text]
 title=Netrunner Core
