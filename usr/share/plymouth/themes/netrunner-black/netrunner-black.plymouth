@@ -5,4 +5,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/netrunner-black
-ScriptFile=/usr/share/plymouth/themes/netrunner-black/core.script
+ScriptFile=/usr/share/plymouth/themes/netrunner-black/netrunner-black.script
