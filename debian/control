@@ -6,7 +6,7 @@ Standards-Version: 3.7.3
 Build-Depends: debhelper (>= 6), dh-make
 
 Package: artwork-plymouth-theme-netrunner-black
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}, plymouth, plymouth-themes
 Provides: plymouth-theme
 Description: graphical boot animation and logger - netrunner-black-logo theme
